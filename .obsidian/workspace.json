@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "51060d2af91f4f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9741ab961c3f52c2",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d093ec8a3e683b3",
+            "type": "tabs",
+            "dimension": 76.72101449275362,
+            "children": [
+              {
+                "id": "94019df1c333b5a9",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "🖥️ Software development/Visualisasi Tren.canvas",
+                    "viewState": {
+                      "x": 2053.3741163235395,
+                      "y": 760.1433734194759,
+                      "zoom": -0.11111100260416662
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Visualisasi Tren"
+                }
+              }
+            ]
+          },
+          {
+            "id": "808fd1d3750342a6",
+            "type": "tabs",
+            "dimension": 23.27898550724638,
+            "children": [
+              {
+                "id": "4b29ec526f8e5f6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🖥️ Software development/1980an.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1980an"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8ba1ed81f21f8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d251836f60371e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "457d3757fd49b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a4aa9ddc2589506",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d6394a4ebfe0fe1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3cce47373947fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ffa5b0293d5c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4312360ea704651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🖥️ Software development/Visualisasi Tren.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Visualisasi Tren"
+            }
+          },
+          {
+            "id": "f4d087c55e0683d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🖥️ Software development/Visualisasi Tren.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Visualisasi Tren"
+            }
+          },
+          {
+            "id": "980b098f02605b01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ca5c5636da844d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🖥️ Software development/Visualisasi Tren.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Visualisasi Tren"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94019df1c333b5a9",
+  "lastOpenFiles": [
+    "Untitled",
+    "🖥️ Software development/1980an.md",
+    "🖥️ Software development/Visualisasi Tren.canvas",
+    "🖥️ Software development/Future.md"
+  ]
+}
