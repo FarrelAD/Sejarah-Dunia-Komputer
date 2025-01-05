@@ -15,9 +15,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": 1403.5345622910154,
-                  "y": 341.25354402876786,
-                  "zoom": -1.1578384202146244
+                  "x": 3728.920596297462,
+                  "y": 363.1881769932147,
+                  "zoom": -0.8833972933773773
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tensor",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ed1f83d37bb6e577",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖥️ Software development/Visualisasi Tren.canvas",
+            "file": "🖥️ Software development/2015an.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖥️ Software development/Visualisasi Tren.canvas",
+            "file": "🖥️ Software development/2015an.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖥️ Software development/Visualisasi Tren.canvas"
+            "file": "🖥️ Software development/2015an.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -151,5 +151,10 @@
     }
   },
   "active": "99839da0a1077fc6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "🖥️ Software development/Visualisasi Tren.canvas",
+    "🖥️ Software development/1990an.md",
+    "🖥️ Software development/1980an.md",
+    "🖥️ Software development/📈 Catatan Tren Teknologi dari Masa ke Masa.md"
+  ]
 }
