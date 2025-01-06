@@ -15,9 +15,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": 3728.920596297462,
-                  "y": 363.1881769932147,
-                  "zoom": -0.8833972933773773
+                  "x": -737,
+                  "y": 539.3115566037736,
+                  "zoom": -0.9907836511116929
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖥️ Software development/2015an.md",
+            "file": "🖥️ Software development/1995an.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖥️ Software development/2015an.md",
+            "file": "🖥️ Software development/1995an.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖥️ Software development/2015an.md"
+            "file": "🖥️ Software development/1995an.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
