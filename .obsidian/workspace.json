@@ -20,9 +20,9 @@
                   "state": {
                     "file": "🖥️ Software development/Visualisasi Tren.canvas",
                     "viewState": {
-                      "x": 2053.3741163235395,
-                      "y": 760.1433734194759,
-                      "zoom": -0.11111100260416662
+                      "x": -260.1056626932135,
+                      "y": 415.0927640227134,
+                      "zoom": -0.04969413186855509
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -176,13 +176,23 @@
               "icon": "lucide-list",
               "title": "Outline of Visualisasi Tren"
             }
+          },
+          {
+            "id": "8e0435c1e633f936",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,14 +201,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "94019df1c333b5a9",
   "lastOpenFiles": [
+    "🖥️ Software development/Visualisasi Tren.canvas",
     "Untitled",
     "🖥️ Software development/1980an.md",
-    "🖥️ Software development/Visualisasi Tren.canvas",
     "🖥️ Software development/Future.md"
   ]
 }
