@@ -4,21 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cfecd91a1694d802",
+        "id": "70f0e50e641dd209",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d3da3dc72a11b9",
+            "id": "be36b219c476a4fe",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "🖥️ Software development/2015an.md",
-                "bFile": "🖥️ Software development/2015an.md",
-                "aRef": ""
+                "file": "🖥️ Software development/Visualisasi Tren.canvas",
+                "viewState": {
+                  "x": -3951.2569201378083,
+                  "y": 415.90962826521223,
+                  "zoom": -0.11111100260416662
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2015an"
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Visualisasi Tren"
             }
           }
         ]
@@ -52,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scikit",
+                "query": "oracle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +78,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +188,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d3da3dc72a11b9",
+  "active": "be36b219c476a4fe",
   "lastOpenFiles": [
+    "🖥️ Software development/1935an.md",
+    "🖥️ Software development/1910an.md",
+    "🖥️ Software development/1955an.md",
+    "🖥️ Software developmetn/1955an.md",
+    "🖥️ Software development/1950an.md",
+    "🖥️ Software developmetn/1950an.md",
+    "🖥️ Software developmetn",
+    "🖥️ Software development/1965an.md",
+    "🖥️ Software development/1975an.md",
+    "🖥️ Software development/1970an.md",
     "🖥️ Software development/Visualisasi Tren.canvas",
     "🖥️ Software development/2005an.md",
     "🖥️ Software development/2015an.md",
