@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d093ec8a3e683b3",
+        "id": "cfecd91a1694d802",
         "type": "tabs",
         "children": [
           {
-            "id": "94019df1c333b5a9",
+            "id": "a3d3da3dc72a11b9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "🖥️ Software development/Visualisasi Tren.canvas",
-                "viewState": {
-                  "x": 2505.4951246434025,
-                  "y": 828.8083728547198,
-                  "zoom": -0.6666665039062499
-                }
+                "aFile": "🖥️ Software development/2015an.md",
+                "bFile": "🖥️ Software development/2015an.md",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Visualisasi Tren"
+              "icon": "diff",
+              "title": "Diff: 2015an"
             }
           }
         ]
@@ -55,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scikit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b3cce47373947fca",
@@ -159,13 +155,23 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "f97b773d0367efde",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94019df1c333b5a9",
+  "active": "a3d3da3dc72a11b9",
   "lastOpenFiles": [
-    "🖥️ Software development/2015an.md",
     "🖥️ Software development/Visualisasi Tren.canvas",
+    "🖥️ Software development/2005an.md",
+    "🖥️ Software development/2015an.md",
     "🖥️ Software development/1960an.md",
     "Untitled",
     "🖥️ Software development/1980an.md",
