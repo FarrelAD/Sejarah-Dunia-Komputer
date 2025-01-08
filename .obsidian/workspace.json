@@ -16,9 +16,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": -4111.345497161817,
-                  "y": 432.7262160337537,
-                  "zoom": -0.2752267364660895
+                  "x": -17717.695338368314,
+                  "y": 469.4442188778807,
+                  "zoom": -0.6666669921874996
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "babba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,24 +188,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be36b219c476a4fe",
+  "active": "f97b773d0367efde",
   "lastOpenFiles": [
+    "🖥️ Software development/1800an.md",
+    "🖥️ Software development/Visualisasi Tren.canvas",
+    "img/difference-engine.jpg",
+    "img/difference-engine-1.jpg",
+    "🖥️ Software development/1650an.md",
+    "🖥️ Software development/800an.md",
+    "img/binaire_leibniz.png",
+    "🖥️ Software development/1600an.md",
+    "img/muhammad-ibn-musa-al-khwarizmi.webp",
+    "img/muhammad-ibn-musa-al-khwarizmipri209555722.webp",
+    "img/pascaline.jpg",
+    "img/Pascaline-CnAM_823-1-IMG_1506-black.jpg",
+    "🖥️ Software development/1955an.md",
+    "img/carl-friedrich-gauss.jpg",
+    "img/440px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+    "img/IBM-1401-1402-1403.jpg",
+    "img",
+    "🖥️ Software development/1920an.md",
+    "🖥️ Software development/1915an.md",
+    "🖥️ Software development/1910an.md",
+    "🖥️ Software development/1975an.md",
+    "🖥️ Software development/1900an.md",
+    "🖥️ Software development/1905an.md",
+    "🖥️ Software development/1940an.md",
     "🖥️ Software development/1945an.md",
     "🖥️ Software development/1935an.md",
-    "🖥️ Software development/1910an.md",
-    "🖥️ Software development/1955an.md",
     "🖥️ Software developmetn/1955an.md",
     "🖥️ Software development/1950an.md",
     "🖥️ Software developmetn/1950an.md",
     "🖥️ Software developmetn",
     "🖥️ Software development/1965an.md",
-    "🖥️ Software development/1975an.md",
     "🖥️ Software development/1970an.md",
-    "🖥️ Software development/Visualisasi Tren.canvas",
     "🖥️ Software development/2005an.md",
     "🖥️ Software development/2015an.md",
     "🖥️ Software development/1960an.md",
-    "Untitled",
     "🖥️ Software development/1980an.md",
     "🖥️ Software development/Future.md"
   ]
