@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70f0e50e641dd209",
+        "id": "84ade062ba444027",
         "type": "tabs",
         "children": [
           {
-            "id": "be36b219c476a4fe",
+            "id": "10b8ce17dc23d9c9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,9 +16,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": -17717.695338368314,
-                  "y": 469.4442188778807,
-                  "zoom": -0.6666669921874996
+                  "x": 511.96973356571755,
+                  "y": 476.2541216990676,
+                  "zoom": 0.14121879642953022
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "babba",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,44 +188,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f97b773d0367efde",
+  "active": "457d3757fd49b0b2",
   "lastOpenFiles": [
-    "🖥️ Software development/1800an.md",
+    "🖥️ Software development/1995an.md",
     "🖥️ Software development/Visualisasi Tren.canvas",
-    "img/difference-engine.jpg",
-    "img/difference-engine-1.jpg",
+    "img/netbeans-40-small.png",
+    "img/IBM-1401-1402-1403.jpg",
+    "🖥️ Software development/2000an.md",
+    "img/ibm-visual-age.png",
+    "img/e3f28923e0788f5704ef50fb1139bf82dfb43df2cc4a88148a493cb543716508.png",
+    "🖥️ Software development/2010an.md",
+    "🖥️ Software development/1965an.md",
+    "🖥️ Software development/1955an.md",
+    "img/intel.png",
+    "img/shockley-semiconductor.png",
+    "img/Shockley_Transistor_logo.svg.png",
+    "img/fairchild-semiconductor.png",
+    "img/Fairchild_Semiconductor_Logo.svg.png",
+    "🖥️ Software development/1945an.md",
+    "img/vacuum-tube-vs-transistor.webp",
+    "🖥️ Software development/1850an.md",
+    "🖥️ Software development/1925an.md",
+    "🖥️ Software development/1930an.md",
+    "🖥️ Software development/1800an.md",
+    "🖥️ Software development/1940an.md",
+    "🖥️ Software development/1935an.md",
+    "🖥️ Software development/1910an.md",
+    "🖥️ Software development/1920an.md",
     "🖥️ Software development/1650an.md",
     "🖥️ Software development/800an.md",
-    "img/binaire_leibniz.png",
     "🖥️ Software development/1600an.md",
-    "img/muhammad-ibn-musa-al-khwarizmi.webp",
-    "img/muhammad-ibn-musa-al-khwarizmipri209555722.webp",
-    "img/pascaline.jpg",
-    "img/Pascaline-CnAM_823-1-IMG_1506-black.jpg",
-    "🖥️ Software development/1955an.md",
-    "img/carl-friedrich-gauss.jpg",
-    "img/440px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
-    "img/IBM-1401-1402-1403.jpg",
     "img",
-    "🖥️ Software development/1920an.md",
     "🖥️ Software development/1915an.md",
-    "🖥️ Software development/1910an.md",
     "🖥️ Software development/1975an.md",
     "🖥️ Software development/1900an.md",
     "🖥️ Software development/1905an.md",
-    "🖥️ Software development/1940an.md",
-    "🖥️ Software development/1945an.md",
-    "🖥️ Software development/1935an.md",
     "🖥️ Software developmetn/1955an.md",
     "🖥️ Software development/1950an.md",
     "🖥️ Software developmetn/1950an.md",
     "🖥️ Software developmetn",
-    "🖥️ Software development/1965an.md",
     "🖥️ Software development/1970an.md",
-    "🖥️ Software development/2005an.md",
-    "🖥️ Software development/2015an.md",
-    "🖥️ Software development/1960an.md",
-    "🖥️ Software development/1980an.md",
-    "🖥️ Software development/Future.md"
+    "🖥️ Software development/2005an.md"
   ]
 }
