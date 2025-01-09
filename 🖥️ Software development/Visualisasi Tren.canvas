@@ -66,11 +66,10 @@
 		{"id":"90089917e08bdd89","type":"text","text":"# **100**","x":-29640,"y":-340,"width":250,"height":60,"color":"5"},
 		{"id":"1c22d3d4392d3017","type":"file","file":"🖥️ Software development/1600an.md","x":-20880,"y":-123,"width":495,"height":983},
 		{"id":"a3564acd9277ab4e","type":"file","file":"🖥️ Software development/1650an.md","x":-20007,"y":-116,"width":527,"height":856},
-		{"id":"25d831816d67bac7","type":"file","file":"🖥️ Software development/1800an.md","x":-17920,"y":-140,"width":609,"height":1700},
-		{"id":"b2b7e34108cc3977","type":"file","file":"🖥️ Software development/1925an.md","x":-11460,"y":-161,"width":505,"height":861},
+		{"id":"b2b7e34108cc3977","type":"file","file":"🖥️ Software development/1925an.md","x":-11460,"y":-161,"width":505,"height":1121},
 		{"id":"7fcf367f2e452600","type":"file","file":"🖥️ Software development/1930an.md","x":-10700,"y":-167,"width":480,"height":867},
 		{"id":"1672cc362e74cd4f","type":"file","file":"🖥️ Software development/1940an.md","x":-9235,"y":-140,"width":560,"height":1460},
-		{"id":"a89a280e3190cdf1","type":"file","file":"🖥️ Software development/1850an.md","x":-17140,"y":-140,"width":640,"height":3040},
+		{"id":"a89a280e3190cdf1","type":"file","file":"🖥️ Software development/1850an.md","x":-17140,"y":-140,"width":640,"height":3100},
 		{"id":"88e5e2b8e0507132","type":"file","file":"🖥️ Software development/1955an.md","x":-6940,"y":-140,"width":660,"height":2740},
 		{"id":"b3a3cb834bef961b","type":"text","text":"# **GOLDEN MOMENT**","x":-17035,"y":-540,"width":320,"height":120,"color":"3"},
 		{"id":"7c88971cd7080968","type":"text","text":"# **GOLDEN MOMENT**","x":-8430,"y":-560,"width":320,"height":120,"color":"3"},
@@ -80,7 +79,8 @@
 		{"id":"db181e18233e696d","type":"file","file":"🖥️ Software development/1965an.md","x":-5160,"y":-140,"width":684,"height":1540},
 		{"id":"4efbbfd1bb8ab9da","type":"file","file":"🖥️ Software development/1945an.md","x":-8520,"y":-140,"width":589,"height":1820},
 		{"id":"b2bf47e541b48885","type":"file","file":"🖥️ Software development/2015an.md","x":3435,"y":-140,"width":740,"height":1410},
-		{"id":"53eab4f702319959","type":"file","file":"🖥️ Software development/2000an.md","x":660,"y":-130,"width":650,"height":2330}
+		{"id":"53eab4f702319959","type":"file","file":"🖥️ Software development/2000an.md","x":660,"y":-130,"width":650,"height":2330},
+		{"id":"25d831816d67bac7","type":"file","file":"🖥️ Software development/1800an.md","x":-17920,"y":-140,"width":609,"height":3300}
 	],
 	"edges":[
 		{"id":"d61611783c57ca9d","fromNode":"620e1cbae4ad3cc4","fromSide":"right","toNode":"6d39d35a9b2b2117","toSide":"left","color":"2"},
