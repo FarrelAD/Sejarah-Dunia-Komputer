@@ -16,9 +16,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": -16761.397223901975,
-                  "y": 2091.108392872829,
-                  "zoom": -0.6666665039062499
+                  "x": -371.1421028743647,
+                  "y": 418.9793730930372,
+                  "zoom": -0.3141421330769856
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DS",
+                "query": "tag:#DATA/DATABASE/RELATIONAL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,28 +188,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10b8ce17dc23d9c9",
+  "active": "f97b773d0367efde",
   "lastOpenFiles": [
+    "🖥️ Software development/2015an.md",
+    "🖥️ Software development/Visualisasi Tren.canvas",
+    "img/cockroachdb.jpg",
+    "img/cockroach_db_header-1634549116493.jpg",
+    "🖥️ Software development/2000an.md",
+    "img/timescale-db.png",
+    "img/images.png",
+    "img/apache-spark.png",
+    "img/duckdb.png",
+    "img/sqlite.png",
+    "img/1_fMPUMki182HzyVZvo_awDw.png",
     "at&t.md",
     "🖥️ Software development/1800an.md",
     "img/at&t.jpg",
     "img/ATT-Logo-1900-upscaled.jpg",
-    "img/bell-telephone-company.PNG",
-    "img/Bell_System_hires_1889_logo-1.PNG",
-    "🖥️ Software development/Visualisasi Tren.canvas",
-    "img/note-g.jpg",
-    "img/Diagram_for_the_computation_of_Bernoulli_numbers.jpg",
-    "img/analytical-engine.jpg",
-    "img/Babbages_Analytical_Engine,_1834-1871._(9660574685).jpg",
-    "img/charles-babbage.jpg",
-    "img/Charles_Babbage_-_1860.jpg",
     "🖥️ Software development/1925an.md",
     "🖥️ Software development/1995an.md",
     "🖥️ Software development/1980an.md",
-    "🖥️ Software development/2000an.md",
     "🖥️ Software development/2005an.md",
     "🖥️ Software development/2010an.md",
-    "🖥️ Software development/2015an.md",
     "🖥️ Software development/1945an.md",
     "🖥️ Software development/1970an.md",
     "🖥️ Software development/1965an.md",
@@ -227,7 +227,6 @@
     "img",
     "🖥️ Software development/1915an.md",
     "🖥️ Software development/1975an.md",
-    "🖥️ Software development/1900an.md",
     "🖥️ Software developmetn"
   ]
 }
