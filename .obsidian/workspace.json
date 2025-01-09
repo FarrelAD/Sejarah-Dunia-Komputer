@@ -16,9 +16,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": -20059.151759412125,
-                  "y": 418.8103064274269,
-                  "zoom": -0.6666665039062499
+                  "x": -24505.27593973478,
+                  "y": -167.47919279893136,
+                  "zoom": -1.7777775065104167
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arthur",
+                "query": "tag:#DS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,8 +190,21 @@
   },
   "active": "10b8ce17dc23d9c9",
   "lastOpenFiles": [
-    "🖥️ Software development/1970an.md",
+    "🖥️ Software development/1995an.md",
     "🖥️ Software development/Visualisasi Tren.canvas",
+    "🖥️ Software development/1980an.md",
+    "img/matlab.png",
+    "img/Matlab_Logo.png",
+    "🖥️ Software development/2000an.md",
+    "img/wordpress.jpg",
+    "img/matplotlib.png",
+    "img/Matplotlib-featured-image-studyopedia.png",
+    "img/tableau.png",
+    "🖥️ Software development/2005an.md",
+    "🖥️ Software development/2010an.md",
+    "🖥️ Software development/2015an.md",
+    "🖥️ Software development/1945an.md",
+    "🖥️ Software development/1970an.md",
     "🖥️ Software development/1965an.md",
     "img/intel-4004.jpg",
     "img/Intel_C4004.jpg",
@@ -199,19 +212,9 @@
     "img/3101_2.jpg",
     "🖥️ Software development/1850an.md",
     "🖥️ Software development/1600an.md",
-    "img/heinrich-hertz.JPG",
-    "img/440px-HEINRICH_HERTZ.JPG",
     "🖥️ Software development/1750an.md",
-    "img/sir-isaac-newton.jpg",
-    "img/Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
-    "img/michael-faraday.jpg",
-    "img/Michael_Faraday_sitting_crop.jpg",
-    "🖥️ Software development/1945an.md",
     "🖥️ Software development/1940an.md",
     "🖥️ Software development/1935an.md",
-    "🖥️ Software development/1995an.md",
-    "🖥️ Software development/2000an.md",
-    "🖥️ Software development/2010an.md",
     "🖥️ Software development/1955an.md",
     "🖥️ Software development/1925an.md",
     "🖥️ Software development/1930an.md",
@@ -224,10 +227,6 @@
     "🖥️ Software development/1915an.md",
     "🖥️ Software development/1975an.md",
     "🖥️ Software development/1900an.md",
-    "🖥️ Software development/1905an.md",
-    "🖥️ Software developmetn/1955an.md",
-    "🖥️ Software development/1950an.md",
-    "🖥️ Software developmetn/1950an.md",
     "🖥️ Software developmetn"
   ]
 }
