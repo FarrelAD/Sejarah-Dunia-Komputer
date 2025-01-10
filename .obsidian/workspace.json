@@ -16,9 +16,9 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": -8139.415404986492,
-                  "y": 141.5829760248675,
-                  "zoom": 0.4444444986979167
+                  "x": 2074.0010475464337,
+                  "y": 1271.0239542464024,
+                  "zoom": -0.6666665039062499
                 }
               },
               "pinned": true,
@@ -27,17 +27,17 @@
             }
           },
           {
-            "id": "3268d3f9d6a9defe",
+            "id": "e2e9f825b4559454",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "📝 notes/2000an.md",
+                "bFile": "📝 notes/2000an.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: 2000an"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#COMPANY/SOFTWARE",
+                "query": "tag:#PROGRAMMING/FRAMEWORK/PY/DATA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,31 +203,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3268d3f9d6a9defe",
+  "active": "e2e9f825b4559454",
   "lastOpenFiles": [
     "📝 notes/visualisasi.canvas",
+    "📝 notes/2000an.md",
+    "📝 notes/2005an.md",
+    "img/thefacebook.jpg",
+    "img/Original-facebook.jpg",
+    "img/google-cloud-platform.webp",
+    "img/114@2x.webp",
+    "📝 notes/1990an.md",
+    "img/rabbit-mq.png",
+    "img/RabbitMQ_logo.svg.png",
+    "📝 notes/1995an.md",
+    "img/ibm-mq.png",
+    "img/mqtt.png",
+    "img/nodejs.png",
+    "img/whatsapp.webp",
+    "📝 notes/2010an.md",
     "README.md",
-    "eniac.webp",
-    "img/eniac-2.webp",
-    "img/60208_eniac_1265_711.webp",
     "issue.md",
     "pulls.md",
     "👤 User Behaviour/Visualisasi Tren.md",
     "🖥️ Software development/📈 Catatan Tren Teknologi dari Masa ke Masa.md",
-    "📝 notes/1995an.md",
-    "📝 notes/1990an.md",
-    "img/backrub.webp",
-    "img/google-search^1996^backrub2.webp",
-    "img/yahoo-website.webp",
-    "img/yahoo-website^1994^homepage.webp",
     "📝 notes/1975an.md",
-    "img/vim.png",
-    "📝 notes/2000an.md",
-    "img/vi-code.png",
-    "img/vi-code-green.png",
-    "📝 notes/2005an.md",
     "📝 notes/1985an.md",
-    "📝 notes/2010an.md",
     "📝 notes/1700an.md",
     "📝 notes/1935an.md",
     "📝 notes/1915an.md",
