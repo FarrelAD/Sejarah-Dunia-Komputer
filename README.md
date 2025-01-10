@@ -12,4 +12,4 @@ Ini adalah sebuah catatan semua hal yang berkaitan dengan ilmu komputer atau apa
 
 Rincian catatan bisa melihat langsung file berekstensi **.md** pada folder **📝 notes**. Jika anda ingin melihat visualisasi dari seluruh catatan, anda bisa buka aplikasi **Obsidian** dan buka file bernama [**visualisasi.canvas**](📝%20notes/visualisasi.canvas)
 
-Catatan ini masih sangat mungkin ditemukan banyak kesalahan atau kurang lengkapnya informasi. Maka dari itu, jika anda menemukan sesuatu yang perlu diperbaiki, maka silakan ajukan [pull request](pulls) atau membuat [issue](issues) pada repositori ini.
+Catatan ini masih sangat mungkin ditemukan banyak kesalahan atau kurang lengkapnya informasi. Maka dari itu, jika anda menemukan sesuatu yang perlu diperbaiki, maka silakan ajukan [pull request](https://github.com/FarrelAD/Tren-Teknologi-Komputer/pulls) atau membuat [issue](https://github.com/FarrelAD/Tren-Teknologi-Komputer/issues) pada repositori ini.
