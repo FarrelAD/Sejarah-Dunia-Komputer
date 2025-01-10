@@ -16,9 +16,9 @@
               "state": {
                 "file": "🖥️ Software development/Visualisasi Tren.canvas",
                 "viewState": {
-                  "x": -9278.876368835708,
-                  "y": 737.8660039089079,
-                  "zoom": -0.3141421330769856
+                  "x": -1325.6493779634457,
+                  "y": 548.8831982872615,
+                  "zoom": -0.11111100260416662
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sym",
+                "query": "instagram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,32 +188,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457d3757fd49b0b2",
+  "active": "f97b773d0367efde",
   "lastOpenFiles": [
-    "🖥️ Software development/1935an.md",
-    "🖥️ Software development/Visualisasi Tren.canvas",
-    "img/a-symbolic-analysis-of-relay-and-switching-circuits.webp",
-    "img/17228_2.webp",
     "🖥️ Software development/1985an.md",
+    "🖥️ Software development/Visualisasi Tren.canvas",
+    "img/arm.png",
+    "img/Arm_logo_2017.svg.png",
+    "img/tsmc.png",
+    "img/images.png",
+    "img/qualcomm.jpg",
+    "img/Qualcomm.jpg",
+    "img/friendster.jpg",
+    "img/alibaba.png",
+    "🖥️ Software development/2005an.md",
+    "🖥️ Software development/2010an.md",
+    "img/youtube.png",
+    "img/instagram.jpg",
+    "🖥️ Software development/2000an.md",
+    "🖥️ Software development/1995an.md",
+    "🖥️ Software development/1700an.md",
+    "🖥️ Software development/1935an.md",
     "🖥️ Software development/1915an.md",
     "🖥️ Software development/1900an.md",
-    "img/claude-shannon.jpg",
-    "img/C.E._Shannon._Tekniska_museet_43069.jpg",
-    "img/vacuum-tube.jpg",
-    "img/TRIODE_TM11_662_FIG_4.jpg",
     "🖥️ Software development/2015an.md",
-    "img/cockroachdb.jpg",
-    "img/cockroach_db_header-1634549116493.jpg",
-    "🖥️ Software development/2000an.md",
-    "img/timescale-db.png",
-    "img/images.png",
     "at&t.md",
     "🖥️ Software development/1800an.md",
     "🖥️ Software development/1925an.md",
-    "🖥️ Software development/1995an.md",
     "🖥️ Software development/1980an.md",
-    "🖥️ Software development/2005an.md",
-    "🖥️ Software development/2010an.md",
     "🖥️ Software development/1945an.md",
     "🖥️ Software development/1970an.md",
     "🖥️ Software development/1965an.md",
@@ -225,7 +226,6 @@
     "🖥️ Software development/1930an.md",
     "🖥️ Software development/1910an.md",
     "🖥️ Software development/1920an.md",
-    "🖥️ Software development/1650an.md",
     "img",
     "🖥️ Software developmetn"
   ]
