@@ -16,8 +16,8 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": 2074.0010475464337,
-                  "y": 1271.0239542464024,
+                  "x": 3523.8632044456913,
+                  "y": 1065.8332385110896,
                   "zoom": -0.6666665039062499
                 }
               },
@@ -25,23 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "visualisasi"
             }
-          },
-          {
-            "id": "e2e9f825b4559454",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "📝 notes/2000an.md",
-                "bFile": "📝 notes/2000an.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2000an"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,24 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2e9f825b4559454",
+  "active": "f97b773d0367efde",
   "lastOpenFiles": [
+    "📝 notes/2020an.md",
     "📝 notes/visualisasi.canvas",
+    "📝 notes/2010an.md",
+    "img/debezium.png",
+    "img/Untitled.png",
+    "📝 notes/1995an.md",
+    "img/apache-flink.jpg",
+    "img/1_L1wnAy9szxsXlqyrGv8rog.jpg",
+    "📝 notes/1970an.md",
+    "img/numpy.png",
+    "img/codata.png",
+    "img/codata_logo.png",
+    "📝 notes/1980an.md",
+    "img/c.png",
+    "img/The_C_Programming_Language_logo.svg.png",
+    "img/lenovo-1.png",
     "📝 notes/2000an.md",
     "📝 notes/2005an.md",
-    "img/thefacebook.jpg",
-    "img/Original-facebook.jpg",
-    "img/google-cloud-platform.webp",
-    "img/114@2x.webp",
     "📝 notes/1990an.md",
-    "img/rabbit-mq.png",
-    "img/RabbitMQ_logo.svg.png",
-    "📝 notes/1995an.md",
-    "img/ibm-mq.png",
-    "img/mqtt.png",
-    "img/nodejs.png",
-    "img/whatsapp.webp",
-    "📝 notes/2010an.md",
     "README.md",
     "issue.md",
     "pulls.md",
@@ -236,9 +224,7 @@
     "at&t.md",
     "📝 notes/1800an.md",
     "📝 notes/1925an.md",
-    "📝 notes/1980an.md",
     "📝 notes/1945an.md",
-    "📝 notes/1970an.md",
     "📝 notes/1965an.md",
     "📝 notes/1850an.md",
     "img",
