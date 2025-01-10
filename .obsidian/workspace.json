@@ -14,19 +14,34 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "📝 notes/Visualisasi Tren.canvas",
+                "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": 3902.7933761351574,
-                  "y": 561.2744056388774,
-                  "zoom": -0.6666665039062499
+                  "x": -8139.415404986492,
+                  "y": 141.5829760248675,
+                  "zoom": 0.4444444986979167
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "Visualisasi Tren"
+              "title": "visualisasi"
+            }
+          },
+          {
+            "id": "3268d3f9d6a9defe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,12 +203,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457d3757fd49b0b2",
+  "active": "3268d3f9d6a9defe",
   "lastOpenFiles": [
+    "📝 notes/visualisasi.canvas",
+    "README.md",
+    "eniac.webp",
+    "img/eniac-2.webp",
+    "img/60208_eniac_1265_711.webp",
+    "issue.md",
+    "pulls.md",
     "👤 User Behaviour/Visualisasi Tren.md",
     "🖥️ Software development/📈 Catatan Tren Teknologi dari Masa ke Masa.md",
     "📝 notes/1995an.md",
-    "📝 notes/Visualisasi Tren.canvas",
     "📝 notes/1990an.md",
     "img/backrub.webp",
     "img/google-search^1996^backrub2.webp",
@@ -205,9 +226,6 @@
     "img/vi-code.png",
     "img/vi-code-green.png",
     "📝 notes/2005an.md",
-    "img/aws.jpg",
-    "img/1715110562598.jpg",
-    "img/snapdragon.png",
     "📝 notes/1985an.md",
     "📝 notes/2010an.md",
     "📝 notes/1700an.md",
@@ -223,10 +241,6 @@
     "📝 notes/1970an.md",
     "📝 notes/1965an.md",
     "📝 notes/1850an.md",
-    "📝 notes/1600an.md",
-    "📝 notes/1750an.md",
-    "📝 notes/1940an.md",
-    "📝 notes/1955an.md",
     "img",
     "🖥️ Software developmetn"
   ]
