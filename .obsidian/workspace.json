@@ -16,17 +16,32 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": -350.1043790572859,
-                  "y": 1111.3730169144483,
-                  "zoom": -1.222222493489583
+                  "x": -3231.319291320791,
+                  "y": 993.8777099210295,
+                  "zoom": 0.4444444986979167
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "visualisasi"
             }
+          },
+          {
+            "id": "13da15eb8709c383",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "📝 notes/1975an.md",
+                "bFile": "📝 notes/1975an.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1975an"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f97b773d0367efde",
+  "active": "13da15eb8709c383",
   "lastOpenFiles": [
-    "📝 notes/1980an.md",
     "📝 notes/visualisasi.canvas",
+    "📝 notes/1975an.md",
+    "img/relational-software-system.png",
+    "img/Oracle-1979-300x169.png",
+    "📝 notes/1980an.md",
     "📝 notes/1985an.md",
     "img/sun.png",
     "📝 notes/1955an.md",
@@ -204,8 +222,6 @@
     "img/image.jpg",
     "📝 notes/1910an.md",
     "img/computing-tabulating-recording-company.jpg",
-    "img/computing-tabulating-recording company.jpg",
-    "img/item_horizontal_with_181615484.jpg",
     "📝 notes/1800an.md",
     "📝 notes/1925an.md",
     "README.md",
@@ -219,7 +235,6 @@
     "pulls.md",
     "👤 User Behaviour/Visualisasi Tren.md",
     "🖥️ Software development/📈 Catatan Tren Teknologi dari Masa ke Masa.md",
-    "📝 notes/1975an.md",
     "📝 notes/1700an.md",
     "📝 notes/1935an.md",
     "📝 notes/1915an.md",
