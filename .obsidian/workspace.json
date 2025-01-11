@@ -30,14 +30,14 @@
             "id": "13da15eb8709c383",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "📝 notes/1975an.md",
-                "bFile": "📝 notes/1975an.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1975an"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
