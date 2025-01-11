@@ -16,8 +16,8 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": 3523.8632044456913,
-                  "y": 1065.8332385110896,
+                  "x": 3332.1051983789366,
+                  "y": 1310.9279720390525,
                   "zoom": -0.6666665039062499
                 }
               },
@@ -25,8 +25,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "visualisasi"
             }
+          },
+          {
+            "id": "0965a095315d52a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f97b773d0367efde",
+  "active": "0965a095315d52a5",
   "lastOpenFiles": [
-    "📝 notes/2020an.md",
+    "README.md",
     "📝 notes/visualisasi.canvas",
+    "📝 notes/2020an.md",
     "📝 notes/2010an.md",
     "img/debezium.png",
     "img/Untitled.png",
@@ -209,7 +225,6 @@
     "📝 notes/2000an.md",
     "📝 notes/2005an.md",
     "📝 notes/1990an.md",
-    "README.md",
     "issue.md",
     "pulls.md",
     "👤 User Behaviour/Visualisasi Tren.md",
@@ -226,7 +241,6 @@
     "📝 notes/1925an.md",
     "📝 notes/1945an.md",
     "📝 notes/1965an.md",
-    "📝 notes/1850an.md",
     "img",
     "🖥️ Software developmetn"
   ]
