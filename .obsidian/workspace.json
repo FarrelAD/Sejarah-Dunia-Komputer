@@ -16,17 +16,32 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": 645.7134534056155,
-                  "y": -215.59562970909496,
-                  "zoom": -0.11111100260416662
+                  "x": 4566.849485652584,
+                  "y": 1317.643363211297,
+                  "zoom": -0.13520415941874186
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "visualisasi"
             }
+          },
+          {
+            "id": "12a1c086644e1aa9",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "📝 notes/1995an.md",
+                "bFile": "📝 notes/1995an.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1995an"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "airflow",
+                "query": "doug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,22 +203,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71c9c3e0a76a5df",
+  "active": "12a1c086644e1aa9",
   "lastOpenFiles": [
-    "📝 notes/2015an.md",
     "📝 notes/visualisasi.canvas",
-    "img/pytorch.png",
-    "img/nextjs.avif",
-    "img/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.avif",
-    "img/jupyter.png",
-    "img/keras.png",
-    "img/tensorflow.png",
-    "img/images.png",
-    "img/rust.png",
-    "img/apache-airflow.png",
+    "📝 notes/2020an.md",
+    "img/stablediffusion.jpg.~tmp",
+    "img/stablediffusion.jpg",
+    "img/stablediffusion.webp",
+    "📝 notes/2015an.md",
+    "img/dall-e.png",
+    "img/google-bert.webp",
+    "img/Screen-Shot-2021-11-22-at-10.webp",
+    "img/perplexity.jpg",
+    "img/perplexity-ai-digadang-gadang-siap-menggantikan-google-dalam-ranah-mesin-pencarian-mC6iNAa5ng.jpg",
+    "img/chatgpt.png",
+    "img/ChatGPT_logo.svg.png",
+    "img/llama.webp",
+    "📝 notes/2010an.md",
     "README.md",
     "📝 notes/1975an.md",
-    "img/relational-software-system.png",
     "📝 notes/1980an.md",
     "📝 notes/1985an.md",
     "📝 notes/1955an.md",
@@ -211,8 +229,6 @@
     "📝 notes/1910an.md",
     "📝 notes/1800an.md",
     "📝 notes/1925an.md",
-    "📝 notes/2020an.md",
-    "📝 notes/2010an.md",
     "📝 notes/1995an.md",
     "📝 notes/2000an.md",
     "📝 notes/2005an.md",
