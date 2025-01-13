@@ -16,9 +16,9 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": 4285.900032538802,
-                  "y": 861.9714819693686,
-                  "zoom": -0.14867366872231158
+                  "x": -3364.7688884889108,
+                  "y": 1238.9558661135927,
+                  "zoom": -0.43035118632515257
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openai",
+                "query": "adobe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,26 +191,27 @@
   "active": "b71c9c3e0a76a5df",
   "lastOpenFiles": [
     "📝 notes/visualisasi.canvas",
+    "📝 notes/1970an.md",
+    "img/xerox-alto.jpg",
+    "img/alto-running-smalltalk.jpg",
+    "img/smalltalk.png",
+    "img/Smalltalk_Balloon.svg.png",
+    "📝 notes/1905an.md",
+    "img/xerox.png",
+    "img/images.png",
+    "📝 notes/2020an.md",
     "📝 notes/2015an.md",
     "img/anthropic.png",
     "img/Anthropic_logo.svg.png",
     "img/openai.png",
     "img/OpenAI_Logo.svg.png",
-    "📝 notes/2020an.md",
     "img/stablediffusion.jpg.~tmp",
-    "img/stablediffusion.jpg",
-    "img/stablediffusion.webp",
-    "img/dall-e.png",
-    "img/google-bert.webp",
-    "img/Screen-Shot-2021-11-22-at-10.webp",
-    "img/perplexity.jpg",
     "📝 notes/2010an.md",
     "README.md",
     "📝 notes/1975an.md",
     "📝 notes/1980an.md",
     "📝 notes/1985an.md",
     "📝 notes/1955an.md",
-    "📝 notes/1970an.md",
     "📝 notes/1910an.md",
     "📝 notes/1800an.md",
     "📝 notes/1925an.md",
@@ -226,7 +227,6 @@
     "📝 notes/1935an.md",
     "📝 notes/1915an.md",
     "📝 notes/1900an.md",
-    "at&t.md",
     "img",
     "🖥️ Software developmetn"
   ]
