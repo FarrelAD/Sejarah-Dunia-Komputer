@@ -16,32 +16,17 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": 4566.849485652584,
-                  "y": 1317.643363211297,
-                  "zoom": -0.13520415941874186
+                  "x": 4285.900032538802,
+                  "y": 861.9714819693686,
+                  "zoom": -0.14867366872231158
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "visualisasi"
             }
-          },
-          {
-            "id": "12a1c086644e1aa9",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "📝 notes/1995an.md",
-                "bFile": "📝 notes/1995an.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 1995an"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doug",
+                "query": "openai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,22 +188,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12a1c086644e1aa9",
+  "active": "b71c9c3e0a76a5df",
   "lastOpenFiles": [
     "📝 notes/visualisasi.canvas",
+    "📝 notes/2015an.md",
+    "img/anthropic.png",
+    "img/Anthropic_logo.svg.png",
+    "img/openai.png",
+    "img/OpenAI_Logo.svg.png",
     "📝 notes/2020an.md",
     "img/stablediffusion.jpg.~tmp",
     "img/stablediffusion.jpg",
     "img/stablediffusion.webp",
-    "📝 notes/2015an.md",
     "img/dall-e.png",
     "img/google-bert.webp",
     "img/Screen-Shot-2021-11-22-at-10.webp",
     "img/perplexity.jpg",
-    "img/perplexity-ai-digadang-gadang-siap-menggantikan-google-dalam-ranah-mesin-pencarian-mC6iNAa5ng.jpg",
-    "img/chatgpt.png",
-    "img/ChatGPT_logo.svg.png",
-    "img/llama.webp",
     "📝 notes/2010an.md",
     "README.md",
     "📝 notes/1975an.md",
