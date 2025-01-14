@@ -11,17 +11,14 @@
             "id": "99839da0a1077fc6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software development/Visualisasi Tren.canvas",
-                "viewState": {
-                  "x": -12812.15698697887,
-                  "y": -131.1846552917371,
-                  "zoom": -1.8824698303560088
-                }
+                "file": "📝 notes/1935an.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Visualisasi Tren"
+              "icon": "lucide-file",
+              "title": "1935an"
             }
           }
         ]
@@ -51,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tensor",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +83,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "ed1f83d37bb6e577",
@@ -98,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖥️ Software development/1995an.md",
+            "file": "📝 notes/1935an.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,6 +150,32 @@
   },
   "active": "99839da0a1077fc6",
   "lastOpenFiles": [
+    "tokyo-shibaura-denki.jpeg",
+    "img/tokyo-shibaura-denki.jpeg",
+    "📝 notes/visualisasi.canvas",
+    "📝 notes/1945an.md",
+    "tokyo-tsushin-kogyo.jpeg",
+    "img/tokyo-tsushin-kogyo.jpeg",
+    "📝 notes/1950an.md",
+    "📝 notes/2005an.md",
+    "📝 notes/2000an.md",
+    "🖥️ Software development/800an.md",
+    "🖥️ Software development/1930an.md",
+    "🖥️ Software development/1925an.md",
+    "🖥️ Software development/1905an.md",
+    "🖥️ Software development/1900an.md",
+    "🖥️ Software development/1850an.md",
+    "🖥️ Software development/1800an.md",
+    "🖥️ Software development/1650an.md",
+    "🖥️ Software development/1600an.md",
+    "img/vacuum-tube-vs-transistor.webp",
+    "img/turing-machine.jpg",
+    "img/thomas-alva-edison.jpg",
+    "img/the-mathematical-analysis-of-logic.jpg",
+    "img/the-first-transistor.jpg",
+    "img/the-enigma-machine.webp",
+    "img/stephen-hawking.webp",
+    "img",
     "🖥️ Software development/1920an.md",
     "🖥️ Software development/1915an.md",
     "🖥️ Software development/1940an.md",
