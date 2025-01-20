@@ -16,9 +16,9 @@
               "state": {
                 "file": "📝 notes/visualisasi.canvas",
                 "viewState": {
-                  "x": -3364.7688884889108,
-                  "y": 1238.9558661135927,
-                  "zoom": -0.43035118632515257
+                  "x": -2224.0682801330418,
+                  "y": 1385.8393726338104,
+                  "zoom": -1.2222220052083332
                 }
               },
               "pinned": true,
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adobe",
+                "query": "ken thompson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software development/Visualisasi Tren.canvas"
+                "file": "📝 notes/visualisasi.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Visualisasi Tren"
+              "title": "Outline of visualisasi"
             }
           },
           {
@@ -156,8 +156,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -191,34 +191,35 @@
   "active": "b71c9c3e0a76a5df",
   "lastOpenFiles": [
     "📝 notes/visualisasi.canvas",
+    "📝 notes/1990an.md",
+    "img/chromeos.png",
+    "img/ChromeOS_Logo.svg.png",
+    "📝 notes/2000an.md",
+    "img/freebsd.png",
+    "img/Freebsd_logo.svg.png",
+    "img/ubuntu.png",
+    "img/Ubuntu-logo-2022.svg.png",
+    "img/redhat.png",
+    "img/Red_Hat_Logo_2019.svg.png",
+    "📝 notes/1980an.md",
+    "img/debian.png",
+    "img/Debian-OpenLogo.svg.png",
+    "📝 notes/1960an.md",
+    "📝 notes/1975an.md",
     "📝 notes/1970an.md",
-    "img/xerox-alto.jpg",
-    "img/alto-running-smalltalk.jpg",
-    "img/smalltalk.png",
-    "img/Smalltalk_Balloon.svg.png",
-    "📝 notes/1905an.md",
-    "img/xerox.png",
-    "img/images.png",
-    "📝 notes/2020an.md",
     "📝 notes/2015an.md",
-    "img/anthropic.png",
-    "img/Anthropic_logo.svg.png",
-    "img/openai.png",
-    "img/OpenAI_Logo.svg.png",
+    "📝 notes/1905an.md",
+    "📝 notes/2020an.md",
     "img/stablediffusion.jpg.~tmp",
     "📝 notes/2010an.md",
     "README.md",
-    "📝 notes/1975an.md",
-    "📝 notes/1980an.md",
     "📝 notes/1985an.md",
     "📝 notes/1955an.md",
     "📝 notes/1910an.md",
     "📝 notes/1800an.md",
     "📝 notes/1925an.md",
     "📝 notes/1995an.md",
-    "📝 notes/2000an.md",
     "📝 notes/2005an.md",
-    "📝 notes/1990an.md",
     "issue.md",
     "pulls.md",
     "👤 User Behaviour/Visualisasi Tren.md",
@@ -226,7 +227,6 @@
     "📝 notes/1700an.md",
     "📝 notes/1935an.md",
     "📝 notes/1915an.md",
-    "📝 notes/1900an.md",
     "img",
     "🖥️ Software developmetn"
   ]
