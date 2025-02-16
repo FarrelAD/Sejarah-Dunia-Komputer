@@ -1,4 +1,4 @@
-# Catatan Sejarah Ilmu Komputer dari Masa ke Masa
+# Catatan Sejarah Dunia Komputer dari Masa ke Masa
 
 ![ENIAC](img/eniac.webp)
 <div align="center">
@@ -10,7 +10,7 @@
 > [!TIP]
 > Gunakan aplikasi [Obsidian](https://obsidian.md/) agar bisa melihat catatan dengan lebih baik
 
-Ini adalah sebuah catatan semua hal yang berkaitan dengan ilmu komputer atau apapun yang berkaitan dengan dunia komputasi. Harapan dari pembuatan catatan ini adalah kita mampu memahami lebih dalam mengenai dunia ilmu komputer.
+Ini adalah sebuah catatan semua hal yang berkaitan dengan dunia komputer atau apapun yang berkaitan dengan dunia komputasi. Harapan dari pembuatan catatan ini adalah kita mampu memahami lebih dalam mengenai dunia komputer.
 
 Rincian catatan bisa melihat langsung file berekstensi **.md** pada folder **📝 notes**. Jika anda ingin melihat visualisasi dari seluruh catatan, anda bisa buka aplikasi **Obsidian** dan buka file bernama [**visualisasi.canvas**](📝%20notes/visualisasi.canvas)
 
